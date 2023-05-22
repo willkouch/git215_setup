@@ -1,2 +1,3 @@
 # git215_setup
-setup
+## Author: Will Kouch
+
